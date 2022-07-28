@@ -4,7 +4,7 @@ public class Testclass1 {
 
 	public static void main(String[] args) {
 		
-		System.out.println(" Project updated");
+		System.out.println(" Project is updated");
 
 	}
 
